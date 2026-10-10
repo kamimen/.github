@@ -1,9 +1,9 @@
-# .github（kamimen）
+# .github (kamimen)
 
-kamimen の org で共通に使うファイルを置くリポジトリです。GitHub は、リポジトリ名が `.github` の公開リポジトリを、org の共通の設定として扱います。
+This repository holds the files shared across the kamimen organization. GitHub treats a public repository named `.github` as the organization's shared defaults.
 
-| ファイル | 役割 |
+| File | Purpose |
 |---|---|
-| `profile/README.md` | org のトップページに表示される説明 |
-| `CONTRIBUTING.md` | リポジトリに自分の `CONTRIBUTING.md` がないときに表示される、貢献の手引き |
-| `assets/kamimen.svg`、`assets/kamimen.png` | org のアイコンの元ファイルと、登録用の PNG（500 × 500） |
+| `profile/README.md` | The description shown on the organization's front page |
+| `CONTRIBUTING.md` | The contribution guide shown for repositories that have no `CONTRIBUTING.md` of their own |
+| `assets/kamimen.svg`, `assets/kamimen.png` | The source of the organization's icon, and the 500 × 500 PNG used to register it |

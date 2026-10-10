@@ -1,17 +1,18 @@
-# 貢献の手引き
+# Contributing
 
-kamimen のリポジトリでは、issue と Pull Request を受け付けています。ありがとうございます。
+Issues and pull requests are welcome in every kamimen repository. Thank you.
 
-開発の手順は、リポジトリごとの `CONTRIBUTING.md` に書いています。リポジトリに `CONTRIBUTING.md` がないときは、この文書が表示されます。
+Each repository describes its own development steps in its `CONTRIBUTING.md`. This document is shown for repositories that do not have one.
 
-## どのリポジトリでも共通の決まり
+## Rules for every repository
 
-1. 用語や規格に関わる変更では、出典のリンクを付け、出典の本文を読んで確認したことだけを書いてください。検索結果の抜粋や要旨だけで確認したことは、書かないでください。
-2. 特定の新聞社のロゴ、書体、紙面デザインの複製は受け付けません。例の内容は、すべて架空にしてください。
-3. 見た目を変える Pull Request には、変更前後のスクリーンショットと、使ったブラウザとバージョンを付けてください。
-4. 表示の確認ができたブラウザを、書いてください。確認していないブラウザについて、動くと書かないでください。
+1. For changes to terms or standards, link the source, and write only what you confirmed by reading the source itself. Do not write what you only saw in a search snippet or an abstract.
+2. Reproducing a real newspaper's logo, typeface or page design is not accepted. Make everything in examples fictional.
+3. A pull request that changes how something looks must include before and after screenshots, and the browser and version you used.
+4. State which browsers you verified. Do not say something works in a browser you did not check.
+5. Write Japanese typesetting terms in Japanese as well, for example vertical writing (縦組み, *tategumi*). Code comments and identifiers are in English.
 
-## 質問と報告
+## Questions and reports
 
-- 不具合や要望は、該当するリポジトリの issue に書いてください。
-- どのリポジトリか分からないときは、`shinbun-css` の issue に書いてください。こちらで振り分けます。
+- Report bugs and requests as an issue in the repository they concern.
+- If you are not sure which repository, open an issue in `shinbun-css`, and we will sort it out.
